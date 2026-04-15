@@ -1,0 +1,4 @@
+sample_id,cancer_type,value
+S1,breast,2.3
+S2,lung,1.8
+S3,colon,3.1
